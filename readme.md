@@ -1,4 +1,6 @@
 # CSC 461 Project
 ## Daniel Frankcom
 
-You have found the source code for the site [here](https://danielfrankcom.github.io/csc461-project). This repo/site tracks the progress for my course project.
+### Project Proposal
+
+The first requirement for the course project is a proposal that lays out a plan for the remainder of the term. The proposal can be found [here](proposal.md).
