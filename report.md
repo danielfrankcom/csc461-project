@@ -36,7 +36,6 @@ In 2014 researchers from MIT created a thin plastic film that could be applied t
 Transparent display technology uses many of the same concepts discovered and refined for the opaque LCD and OLED markets. Transparency was not discovered and produced by any single entity, instead the technology is a result of years of research and refinements to this existing technology. Existing components used to build LCD and OLED screens could be made smaller, enlarging the transparent space between them, and some of these components could be made transparent themselves. As more light is able to come through the display service, the transparency of the device improves.
 
 ## Sources
-#### Note: this section will be revisited for propper formatting later.
 
 [1] https://www.jcdecaux.com/blog/transparent-lcd-technology-out-home-first
 
@@ -57,7 +56,9 @@ Other approaches prior to the introduction of transparent displays attempted to 
 ![An Apple augmented reality navigation patent](images/apple-patent.jpg)
 
 [1] https://www.idc.com/getdoc.jsp?containerId=prUS44511118
+
 [F1] https://miro.medium.com/max/2592/1*AcbWxGO7OuLMk6OMirkfuA.jpeg
+
 [F2] https://www.patentlyapple.com/.a/6a0120a5580826970c01b8d2e6ed75970c-pi
 
 ## Retail Showcases
@@ -71,6 +72,7 @@ This product display method is applicable to "showcase boxes" as depicted in the
 ![A store window with a transparent display](images/transparent-window.jpg)
 
 [F3] http://www.displaysky.com/images/up_images/201751162248.jpg
+
 [F4] http://www.yipled.com/uploads/20160929/1475145340672598.jpg
 
 ## Head-up Display
@@ -86,5 +88,7 @@ A more futuristic example is shown in figure below, where a head-up display is m
 ![A head-up display for speed mounted to a motorbike helmet](images/bike-hud.jpg)
 
 [1] https://en.wikipedia.org/wiki/Head-up_display
+
 [F5] https://sk.ru/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-03/live-1.png
+
 [F6] https://www.kesato.com/blog/wp-content/uploads/2014/11/BikeHUD-Adventure-Helmet-1.jpg
