@@ -48,13 +48,13 @@ Transparent display technology uses many of the same concepts discovered and ref
 
 ## Augmented Reality
 
-In recent years, augmented and virtual reality systems have been gaining traction with the gradual improvement of relevant technologies [1]. While virtual reality attempts to take over a user's entire field of view to provide an immersive experience, augmented reality takes a gentler approach by blending the real world with the manufactured. This is a great application for transparent displays, as content can be overlayed in front of the user's vision, while still allowing light from the environment through the display. Figure \ref{augmented-man} shows an example pair of augmented reality glasses, where the man's face can be seen through the glass around the content that is being displayed.
+In recent years, augmented and virtual reality systems have been gaining traction with the gradual improvement of relevant technologies [1]. While virtual reality attempts to take over a user's entire field of view to provide an immersive experience, augmented reality takes a gentler approach by blending the real world with the manufactured. This is a great application for transparent displays, as content can be overlayed in front of the user's vision, while still allowing light from the environment through the display. The figure below shows an example pair of augmented reality glasses, where the man's face can be seen through the glass around the content that is being displayed.
 
-![A man wearing augmented reality glasses with transparent displays \label{augmented-man}](images/augmented-reality.jpeg)
+![A man wearing augmented reality glasses with transparent displays](images/augmented-reality.jpeg)
 
-Other approaches prior to the introduction of transparent displays attempted to use a camera to capture the user's environment, modify it, and then deliver it to the user on an opaque display. This method of content delivery was unpopular due to the inherently latency problems, field of display restriction, and power consumption. In contrast, when a transparent display is not needed, it effectively disappears due to its transparency. The user of the device is unaffected, and maintains a full field of view with no latency. Figure \ref{apple-patent} shows a patent obtained by Apple which involves overlaying mapping information for a user in real-time, to aid in city navigation.
+Other approaches prior to the introduction of transparent displays attempted to use a camera to capture the user's environment, modify it, and then deliver it to the user on an opaque display. This method of content delivery was unpopular due to the inherently latency problems, field of display restriction, and power consumption. In contrast, when a transparent display is not needed, it effectively disappears due to its transparency. The user of the device is unaffected, and maintains a full field of view with no latency. The figure below shows a patent obtained by Apple which involves overlaying mapping information for a user in real-time, to aid in city navigation.
 
-![An Apple augmented reality navigation patent \label{apple-patent}](images/apple-patent.jpg)
+![An Apple augmented reality navigation patent](images/apple-patent.jpg)
 
 [1] https://www.idc.com/getdoc.jsp?containerId=prUS44511118
 [F1] https://miro.medium.com/max/2592/1*AcbWxGO7OuLMk6OMirkfuA.jpeg
@@ -64,11 +64,11 @@ Other approaches prior to the introduction of transparent displays attempted to 
 
 Another popular application of transparent display technology is product showcases. Retail stores are a particularly early adopter of the technology, as it allows for the display of a product with an overlayed and sometimes interactive media element.
 
-![A showcase box containing an item with images overlayed on a transparent display \label{showcase-box}](images/transparent-showcase.jpg)
+![A showcase box containing an item with images overlayed on a transparent display](images/transparent-showcase.jpg)
 
-This product display method is applicable to "showcase boxes" as depicted in figure \ref{showcase-box}, as well as entire store windows as depicted by figure \ref{store-window}. Due to the composability of these displays, media showcase elements can be constructed taking up any amount of space or any shape.
+This product display method is applicable to "showcase boxes" as depicted in the figure above, as well as entire store windows as depicted by figure below. Due to the composability of these displays, media showcase elements can be constructed taking up any amount of space or any shape.
 
-![A store window with a transparent display\label{store-window}](images/transparent-window.jpg)
+![A store window with a transparent display](images/transparent-window.jpg)
 
 [F3] http://www.displaysky.com/images/up_images/201751162248.jpg
 [F4] http://www.yipled.com/uploads/20160929/1475145340672598.jpg
@@ -77,13 +77,13 @@ This product display method is applicable to "showcase boxes" as depicted in fig
 
 Head-up displays are often considered as a subcategory of augmented reality, however there is an important distinction between the two. Augmented reality systems blend real with virtual elements, whereas head-up displays merely "[present] data without requiring users to look away from their usual viewpoints" [1].
 
-Examples of data presentation where it is important for the user to remain focused on their main task often involve vehicles. Figure \ref{car-hud} shows a head-up display mounted to car dashboard, which is displaying speed and fuel data for the user. A display like this can be useful as it prevents the need for the user to take their eyes off the road to glance down at the instruments behind the wheel. The display itself is transparent so that the driver's field of view is not reduced, and hazards can be seen behind the display.
+Examples of data presentation where it is important for the user to remain focused on their main task often involve vehicles. The figure below shows a head-up display mounted to car dashboard, which is displaying speed and fuel data for the user. A display like this can be useful as it prevents the need for the user to take their eyes off the road to glance down at the instruments behind the wheel. The display itself is transparent so that the driver's field of view is not reduced, and hazards can be seen behind the display.
 
-![A head-up display for speed and fuel, mounted to a car dashboard \label{car-hud}](images/car-hud.png)
+![A head-up display for speed and fuel, mounted to a car dashboard](images/car-hud.png)
 
-A more futuristic example is shown in figure \ref{bike-hud}, where a head-up display is mounted to a motorbike helmet, so that the user can see their speed while maintaining their line of sight on the road. The technology shown in this image is more compact and low-powered (assuming it runs from a battery), however the core technology here is the same between these applications.
+A more futuristic example is shown in figure below, where a head-up display is mounted to a motorbike helmet, so that the user can see their speed while maintaining their line of sight on the road. The technology shown in this image is more compact and low-powered (assuming it runs from a battery), however the core technology here is the same between these applications.
 
-![A head-up display for speed mounted to a motorbike helmet \label{bike-hud}](images/bike-hud.jpg)
+![A head-up display for speed mounted to a motorbike helmet](images/bike-hud.jpg)
 
 [1] https://en.wikipedia.org/wiki/Head-up_display
 [F5] https://sk.ru/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-03/live-1.png
