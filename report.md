@@ -25,7 +25,7 @@ Contributions from various research teams have contributed to the overall knowle
 
 ### Transparent Electronics
 
-A paper from December 2009 [2] discussed a new type of "transparent thin-film-transistors (TFTs)" [2] which are a crucial component in building OLED displays. When attempting to build a fully transparent display, every opaque component reduces the amount of light that can come through the surface, so creating transparent TFTs allows more light to come through these components.
+A paper from December 2009 [2] discussed a new type of "transparent thin-film-transistors (TFTs)" [2] which are a crucial component in building OLED panels. When attempting to build a fully transparent display, every opaque component reduces the amount of light that can come through the surface, so creating transparent TFTs allows more light to come through these components.
 
 ### Single Colour Plastic Coating
 
@@ -92,3 +92,37 @@ A more futuristic example is shown in figure below, where a head-up display is m
 [F5] https://sk.ru/cfs-file.ashx/__key/communityserver-blogs-components-weblogfiles/00-00-00-00-03/live-1.png
 
 [F6] https://www.kesato.com/blog/wp-content/uploads/2014/11/BikeHUD-Adventure-Helmet-1.jpg
+
+# Transparent LCD Technology
+
+Transparent LCD technology is one of two major categories of transparent panels that exist on the market today. While these LCD panels use an older technology than more recent OLED panels, they also make up a smaller share of the transparent display market due to some inherent limitations in the way that the technology works. [1]
+
+LCD technology works in a similar manner for both opaque and transparent displays, so in order to discribe the function of a transparent LCD we will first examine how a traditional, opaque panel works.
+
+## Opaque LCDs
+
+These panels are made up of a number of layers, with the first being a strong backlight. LCD panels rely on an always-on white light at the back of the display, which illuminates the pixels which are "turned on". This has an advantage in that each pixel does not need to generate its own light, but has a disadvantage that "off" pixels can still leak some light to the user, meaning that blacks are not as dark as desired.
+
+The backlight emitts light through the next layer, which is a horizontal polarizing filter. Polarizing filters only allow light through if it is vibrating in a specific plane, meaning that the only light coming through the second layer is vibrating in a horizontal plane. The diagram below excludes the backlight layer, but shows the second layer which is always letting through the light represented by the arrow here. [2]
+
+![A diagram of layers in an LCD display](images/lcd-layers.png)
+
+The next layer of the LCD panel is a sandwich of liquid crystals between glass. These crystals have some special properties that can manipulate the vibration of light passing through them under certain conditions. As can be seen from the diagram, the crystals will rotate the light 90 degrees, making it vibrate on a vertical plane insted of horizontal. When a voltage is applied, the crystals will "untwist", and will maintain the original plane of the light.
+
+The final layer is another polarizing filter, but this time one that is vertically aligned. The combination of this filter orientation and the properties of the liquid crystals in the previous layer allow light to be selectively blocked. If an electrical signal is applied to the crystals then the light passing through will remain horizontal, and will be blocked by the vertical polarizing filter. If a charge is then removed from the layer, the light will be twisted and will pass through the final layer of the panel.
+
+This layered pattern is applied numerous times across the LCD display in little packages, with a number of coloured filters being applied to subsets of the stacks to produce coloured pixels. Voltage can be applied selectively to groups of 3 pixels to produce combined colours, and the amount of applied voltage can be reduced to let through a smaller amount of the backlight.
+
+## Applying Transparency
+
+The visibility of pixels as described in the previous section relied on the power of the backlight that is embedded in the display. In transparent LCDs, there is no backlight, and instead the visibility is depndent on the ambient light behind the display. The display layers other than the backlight in an opaque LCD are inherently transparent already, as they are designed to let the light from the backlight through to the user. If we take away that layer then we have a transparent display right away, but such a display still requires a bright light behind it in order to be seen.
+
+Depending on the application in which such a panel is used, this requirement may already be fullfilled. For example, a product showcase box is likely to have a bright light already to light up the product on display, in which case the transparent LCD would work well. Unfortunately, a light like this does not exist in all places that a transparent display might be required, and instead a weaker light or a non-direct light source needs to be used to display the image.
+
+Due to the inherent nature of the polarizing filters, they block a significant portion of the light passing through them. This must be accounted for when setting up a transparent LCD, as the amount of ambient light will be significantly reduced when passed through the display stack. Due to this limitation, a large focus of transparent LCD technology improvement is on increasing the transmission efficiency of these filters. If the filters were able to better allow light through, or even transform the light to be in a uniform plane, then the user would be able to see a brighter image.
+
+[1] https://en.wikipedia.org/wiki/See-through_display
+
+[2] https://www.explainthatstuff.com/lcdtv.html
+    
+[F1] https://www.researchgate.net/figure/Principle-of-operation-of-a-TN-display-in-the-normally-white-mode-Figure-adapted-from_fig2_234151598
