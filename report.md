@@ -165,6 +165,14 @@ Another aspect that contributes to OLED display transparency is the spacing betw
 
 [F1] https://www.electronicshub.org/wp-content/uploads/2019/05/OLED-Display-Technology-OLED-Layers.jpg
 
+# Touchscreen Technology
+
+Touchscreen technology is used regularly, as it is a key part of modern technology such as smartphones, POS systems, laptops, etc. Interestingly, the capacitive touch layer that exits on these devices is already transparent, and sits above the display layer. When you touch the glass on your device, the first layer underneath is the capacitive touch layer, which uses capacitive resistence to detect the precense of your finger. As manufacturers want to maximize the light output of their devices, "[optical] transparency and clarity are key design factors for a transparent touch sensor." [1]
+
+This same type of sensor can be applied to transparent displays, as the technology itself already lets significant amounts of light through. Manufacturers must be aware however that if they are using a display that is particularly sensitive to ambient light levels, such as a transparent LCD, then they should account for the additional light blockage from the capacitive layer. In practice this is not much of a concern as the capacitive touch layers have been proven by the industry already, and there are a lot of investments that have already gone into the technology.
+
+[1] https://www.ti.com/lit/wp/sway006/sway006.pdf
+
 # Market Availability
 
 As a manufacturing hotspot, China is an epicenter for purchasing transparent displays. Performing trivial searches on shopping platforms such as AliExpress, yield a lot of results when searching for "transparent display" or a similar search term [1]. Upon closer inspection however, it becomes apparent that very few of the shown displays are LCD or OLED. The majority of products showcased in the search results are actually a type of projection film, which can be used in conjunction with a standard projector to give the appearance of a floating image.
