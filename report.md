@@ -164,3 +164,17 @@ Another aspect that contributes to OLED display transparency is the spacing betw
 [4] https://electronics.howstuffworks.com/oled4.htm
 
 [F1] https://www.electronicshub.org/wp-content/uploads/2019/05/OLED-Display-Technology-OLED-Layers.jpg
+
+# Market Availability
+
+As a manufacturing hotspot, China is an epicenter for purchasing transparent displays. Performing trivial searches on shopping platforms such as AliExpress, yield a lot of results when searching for "transparent display" or a similar search term [1]. Upon closer inspection however, it becomes apparent that very few of the shown displays are LCD or OLED. The majority of products showcased in the search results are actually a type of projection film, which can be used in conjunction with a standard projector to give the appearance of a floating image.
+
+While this method of image generation is interesting, searching for terms such as "transparent LCD" or "transparent OLED" yield more focussed results [2]. In contrast to the price of projection film (~$100 per square meter), the "true" displays are significantly more expensive. Preliminary results for "transparent LCD" show a number of very tiny transparent displays that could be used for a clock, and a few genuine product showcase displays that are in the range of $1500 per quare meter [3]. A search for "transparent OLED" turns up similarly poor results, however unlike the search for LCDs, there are no available large-form tranpsparent OLEDs available. All of the results, at least on AliExpress, are small displays for prototyping or for microcontroller projects [2].
+
+The evidence above implies that transparent OLED display technology is not yet available to consumer markets, and is likely difficult to acquire in a large formfactor even for businesses. Transparent LCD displays are possible to purchase, but are prohibitively expensive for most potential customers. Based on the current market availability, transparent displays are easiest to purchase when very small, and projection film is a better investment for large showcases such as a store window.
+
+[1] https://www.aliexpress.com/w/wholesale-transparent-display-screen.html
+
+[2] https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20191122175721&SearchText=transparent+oled
+
+[3] https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20191122180038&SearchText=transparent+lcd

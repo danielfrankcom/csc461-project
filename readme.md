@@ -29,3 +29,6 @@ I have run into some technical challenges involving my choice to write the repor
 
 The OLED technical section is now available at the same link ([here](report.md)).
 
+#### November 22nd
+
+The market availability section is now available at the same link ([here](report.md)).
