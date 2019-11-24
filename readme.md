@@ -32,3 +32,7 @@ The OLED technical section is now available at the same link ([here](report.md))
 #### November 22nd
 
 The market availability section is now available at the same link ([here](report.md)).
+
+#### November 23rd
+
+[Here](https://youtu.be/H4Iaqe2tvbo) is the link to the project presentation.
